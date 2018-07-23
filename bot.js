@@ -265,4 +265,4 @@ ${prefix}queue â‡ Ù„Ù…Ø¹Ø±ÙØ© Ù‚Ø§Ø¦Ù…Ø© Ø§Ù�
    }
    }); 
    
-	client.login("");
+	client.login("NDcxMDYwMDU3NTQzNjcxODQw.DjfVAA.-LoFrWCu0ZiJ96ji0prO04QCmM4");
