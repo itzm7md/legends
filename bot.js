@@ -1,13 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-
-
-
-
-
-
-
 const yt = require('ytdl-core');
 const ytdl = require('ytdl-core');
 const request = require('request');
@@ -16,18 +9,9 @@ const fetchVideoInfo = require('youtube-info');
 const fs = require("fs");
 const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";//لا تغيره
 
-
 client.on('ready', function() {
 	console.log(`i am ready ${client.user.username}`);
 });
-
-
-
-
-
-
-
-
 /*
 ////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\
 ////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\
